@@ -1,0 +1,63 @@
+Hello|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hi hello|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hi|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hi!|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hello|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hello, hi|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+Good morning|Morning|Good Morning. I am Dexter. I will serve your leave enquiries.
+Good afternoon|Afternoon|Good afternoon. I am Dexter. I will serve your leave enquiries.
+Good evening|Evening|Good evening. I am Dexter. I will serve your leave enquiries.
+Good night|Goodbye|Good night. Take care.
+How are you today?|Opening|I'm fine! Thank you. How can I help you?
+want help|Help|How can I help you?
+need help|Help|How can I help you?
+help me|Help|How can I help you?
+I don't want your help.|No-Help|Ok sir/madam. No problem. Have a nice day.
+No help required|No-Help|Ok sir/madam. No problem. Have a nice day.
+thank you|Closing|It's glad to know that I have been helpful. Have a good day!
+thanks|Closing|It's glad to know that I have been helpful. Have a good day!
+bye|Closing|It's glad to know that I have been helpful. Have a good day!
+How many leaves have I taken?|Default-Utilized-Annual-Leaves|You have used 12 annual leaves.
+How many leaves I have already taken?|Default-Utilized-Annual-Leaves|You have used 12 annual leaves.
+How many annual leaves I took?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+How many annual leaves I used?|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+Tell me the annual leaves count|Utilized-Annual-Leaves|You have taken 12 annual leaves.
+How many optional leaves I took?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+optional leave count?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+Tell me optional leaves used?|Utilized-Optional-Leaves|You have taken 1 optional leaves.
+leave type?|Leaves-Type|Currently I know about two: annual and optional leaves.
+types of leaves?|Leaves-Type|Currently I know about two: annual and optional leaves.
+what types of leaves are there?|Leaves-Type|Currently I know about two: annual and optional leaves.
+hi Dexter|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+hello Dexter|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+morning Dexter|Morning|Good Morning. I am Dexter. I will serve your leave enquiries.
+evening Dexter|Evening|Good Evening. I am Dexter. I will serve your leave enquiries.
+ok thanks|Closing|It's glad to know that I have been helpful. Have a good day!
+I want help|Help|How can I help you?
+Can you help me?|Help|How can I help you?
+Who are you?|Identity|I am Dexter, your virtual assistant.
+Tell me your name|Identity|I am Dexter, your virtual assistant.
+Dexter?|Identity|Yes, I am Dexter. I will serve your leave enquiries.
+hello there|Greetings|Hello. I am Dexter. I will serve your leave enquiries.
+Dexter help|Help|How can I help you?
+bye Dexter|Closing|Goodbye. Have a great day!
+what are my leaves?|Default-Utilized-Annual-Leaves|You have used 12 annual leaves.
+leaves used?|Default-Utilized-Annual-Leaves|You have used 12 annual leaves.
+how many leaves left?|Remaining-Leaves|You have 6 annual leaves remaining.
+how many optional leaves left?|Remaining-Optional-Leaves|You have 2 optional leaves remaining.
+remaining leaves?|Remaining-Leaves|You have 6 annual and 2 optional leaves remaining.
+how many days I worked?|Working-Days|You have worked 200 days.
+worked days?|Working-Days|You have worked 200 days.
+working days?|Working-Days|You have worked 200 days.
+total working days?|Working-Days|You have worked 200 days.
+used leaves?|Default-Utilized-Annual-Leaves|You have used 12 annual leaves.
+hello again|Greetings|Hello again. How can I assist you today?
+start over|Restart|Sure! Let's start again.
+repeat please|Repeat|Sure. Could you please specify which part to repeat?
+what did you say?|Repeat|Sure. Here's my previous message again.
+i need info|Help|How can I help you?
+thank you dexter|Closing|You're welcome! Have a good day.
+appreciate your help|Closing|Glad to be of assistance.
+not needed|No-Help|Ok sir/madam. No problem. Have a nice day.
+stop|Closing|Ok, ending the session now. Take care.
+exit|Closing|Session ended. Have a nice day!
